@@ -1,0 +1,11 @@
+{
+    "classification": [
+        "<Speech><SpeechHere></Speech> Recognize whether the speech is real or fake."
+    ],
+    "real_feature": [
+        "<Speech><SpeechHere></Speech> Please output the feature of this real audio."
+    ],
+    "fake_feature": [
+        "<Speech><SpeechHere></Speech> Please output the feature of this fake audio."
+    ]
+}

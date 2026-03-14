@@ -1,0 +1,5 @@
+{
+    "classification": "<Speech><SpeechHere></Speech> Recognize whether the speech is real or fake.",
+    "real_feature": "<Speech><SpeechHere></Speech> The speech is real. Extract the real feature of the speech.",
+    "fake_feature": "<Speech><SpeechHere></Speech> The speech is fake. Extract the fake feature of the speech."
+}
